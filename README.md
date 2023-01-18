@@ -4,7 +4,8 @@
   - why Git? Why Github?
   - What is GitHub?
   - Environment setup
-  - configuration
+  - configuration  
+    hello
 - Github Introduction
   - create repo
   - connection
